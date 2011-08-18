@@ -1,6 +1,4 @@
 <snippet>
-	<content><![CDATA[
-<dt>$1</dt>$0
-		]]></content>
+	<content><![CDATA[<dt>$1</dt>$0]]></content>
 	<tabTrigger>dt</tabTrigger>
 </snippet>

@@ -1,6 +1,4 @@
 <snippet>
-	<content><![CDATA[
-<audio src="$1"${2:${3: autobuffer}${4: autoloop}${5: loop}${6: controls}}></audio>$0
-		]]></content>
+	<content><![CDATA[<audio src="$1"${2:${3: autobuffer}${4: autoloop}${5: loop}${6: controls}}></audio>$0]]></content>
 	<tabTrigger>audio</tabTrigger>
 </snippet>

@@ -1,6 +1,5 @@
 <snippet>
-	<content><![CDATA[
-<audio${1:${2: autobuffer}${3: autoloop}${4: loop}${5: controls}}>
+	<content><![CDATA[<audio${1:${2: autobuffer}${3: autoloop}${4: loop}${5: controls}}>
 	<source src="${6:/media/audio.oga}"${TM_POLYGLOT}>
 	<source src="${7:/media/audio.wav}"${TM_POLYGLOT}>
 	<object type="audio/x-wav" data="${7:/media/audio.wav}" width="${8:290}" height="${9:45}">
@@ -9,7 +8,6 @@
 		<param name="autoStart" value="${11:0}"${TM_POLYGLOT}>
 		${12:<p><a href="$7">${13:Download this audio file.}</a></p>}
 	</object>
-</audio>$0
-		]]></content>
+</audio>$0]]></content>
 	<tabTrigger>audio</tabTrigger>
 </snippet>
