@@ -1,6 +1,5 @@
 <snippet>
 	<content><![CDATA[
-<caption>$1</caption>$0
-		]]></content>
+<caption>$1</caption>$0]]></content>
 	<tabTrigger>caption</tabTrigger>
 </snippet>
