@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+<progress${1: value="$2"}${3: max="$4"}>$5</progress>$0]]></content>
+	<tabTrigger>progress</tabTrigger>
+</snippet>

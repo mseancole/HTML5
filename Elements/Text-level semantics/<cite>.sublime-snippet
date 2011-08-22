@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[
+<cite>$1</cite>$0content>
+	<tabTrigger>cite</tabTrigger>
+</snippet>
