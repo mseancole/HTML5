@@ -1,5 +1,5 @@
 <snippet>
-	<content><![CDATA[
-<source src="$1"${2:${3: type="$4"}${5: media="$6"}}>$0]]></content>
+	<content><![CDATA[<source src="$1"${2:${3: type="$4"}${5: media="$6"}}>$0]]></content>
 	<tabTrigger>source</tabTrigger>
+	<description>&lt;source&gt;</description>
 </snippet>

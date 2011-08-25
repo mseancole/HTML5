@@ -6,4 +6,5 @@
 	<param name="autoStart" value="${7:0}">
 </object>$0]]></content>
 	<tabTrigger>object</tabTrigger>
+	<description>&lt;object&gt;</description>
 </snippet>
