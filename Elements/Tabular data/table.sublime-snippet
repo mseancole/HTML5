@@ -14,5 +14,6 @@
 	</tbody>}
 </table>$0]]></content>
 	<tabTrigger>table</tabTrigger>
+	<scope>source.php,text.html</scope>
 	<description>&lt;table&gt;</description>
 </snippet>
